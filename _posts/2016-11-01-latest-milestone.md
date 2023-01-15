@@ -1,7 +1,7 @@
 ---
-title: We've raised $4000!
+title: $50-$70 Arası Bağış
 author_staff_member: wooly-mcbaa
-date: 2016-11-01
-featured_image: https://unsplash.it/570/400?image=1080
+date: 
+featured_image: images/Antreman.jpg
 ---
-Thank you do everyone who has made contributions. This money is going towards reaching sheep in paddocks far and wide. The revolution has begun.
+50-70 Dolar Arası Bağışa Eskişehirspor Antremanına Davetlimiz Ol!
