@@ -4,3 +4,17 @@
 @import "variables";
 @import "elements";
 @import "layout";
+
+.icon-container{
+  height: 4rem;
+  width: 4rem;
+  background: white;
+  border-radius:50%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -2rem;
+  border: 1px solid #dfdfdf;
+}
