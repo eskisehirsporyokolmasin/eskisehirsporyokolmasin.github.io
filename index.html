@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Sheep Vote
+title: Kulübüne sahip çık!
 ---
 <header>
 	<div class="container">
@@ -43,7 +43,9 @@ title: The Sheep Vote
 
 		<li>
 			<!--<div class="image">{% include icons/site.html icon="conditions" %}</div>-->
+			<div class="icon-container">
 			     <i class="fa-solid fa-futbol" style="font-size: 3em;"></i>
+			</div>
 			<h3 class="editable">Şehrin En Büyük Markası</h3>
 			<p class="editable">Eskişehirspor gerek tanıtım gerekse duyulurluk açısından şehrin en büyük markası ve sivil toplum kuruluşudur. Hem kültürümüzü hem de markamızı kaybetmemek için destek olmalısın.</p>
 		</li>
@@ -98,12 +100,12 @@ title: The Sheep Vote
 
 <div class="darker">
 	<div class="container">
-		<h2 class="editable">Updates</h2>
+		<h2 class="editable">Destekçilerin Avantajları</h2>
 		<p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Update</a></p>
 		<div class="posts">
 			{% for post in site.posts %}
 				<div class="post">
-					<div class="image" style="background-image: url({{ post.featured_image}})"></div>
+					<div class="image" style="background-image: url({{ post.featured_image }})"></div>
 					<div class="post-content">
 						<!--<p class="date">{{ post.date | date: '%B %d, %Y' }}</p>-->
 						<h3>{{ post.title }}</h3>
